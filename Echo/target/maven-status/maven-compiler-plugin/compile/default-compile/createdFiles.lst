@@ -1,0 +1,6 @@
+pw\octane\echo\commands\PinCommand.class
+pw\octane\echo\classes\API.class
+pw\octane\echo\classes\EchoClient.class
+pw\octane\echo\classes\EchoClient$1.class
+pw\octane\echo\EchoModule.class
+pw\octane\echo\commands\AltsCommand.class

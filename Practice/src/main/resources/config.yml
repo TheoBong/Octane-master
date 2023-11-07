@@ -1,0 +1,12 @@
+messages:
+  join:
+    - " "
+    - "&bWelcome to &b&lOctane Practice&r&b!"
+    - "&7&oPractice isn't done, we know there are bugs. stfu"
+    - " "
+sidebar:
+  # Coming soon.
+queue:
+  menu_size: 9
+locations:
+  lobby:

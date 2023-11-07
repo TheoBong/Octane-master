@@ -1,0 +1,4 @@
+name: SG
+version: 1.0
+author: Octane Development Team
+main: pw.octane.core.SGModule

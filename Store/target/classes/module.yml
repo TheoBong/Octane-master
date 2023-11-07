@@ -1,0 +1,6 @@
+name: StoreCheckout
+version: 1.0
+author: Octane Development Team
+main: pw.octane.store.StoreModule
+depend:
+  - Core

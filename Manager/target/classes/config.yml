@@ -1,0 +1,10 @@
+networking:
+  mongo:
+    enabled: true
+    uri: "mongodb://user:pass@127.0.0.1/octane"
+    db: "octane"
+  redis:
+    enabled: true
+    host: "127.0.0.1"
+    port: 6379
+    channel: "octanemanagerplugin"

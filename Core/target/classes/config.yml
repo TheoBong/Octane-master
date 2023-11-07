@@ -1,0 +1,7 @@
+general:
+  server_name: "NA-Hub-01"
+  server_category: "hub"
+  chat_cooldown: 2
+  chat_muted: false
+  namemc_api: "https://api.namemc.com/server/octane.pw/likes?profile=<uuid>"
+  namemc_check: true

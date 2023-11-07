@@ -1,0 +1,6 @@
+name: Echo
+version: 1.0
+author: Octane Development Team
+main: pw.octane.echo.EchoModule
+depend:
+  - Core

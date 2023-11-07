@@ -1,0 +1,6 @@
+name: OctaneManager
+description: Octane's module manager.
+version: git-Octane-5e0bbb0
+author: [leuo, Cow]
+main: pw.octane.manager.OctaneManager
+softdepend: [fakeplugin69420]
